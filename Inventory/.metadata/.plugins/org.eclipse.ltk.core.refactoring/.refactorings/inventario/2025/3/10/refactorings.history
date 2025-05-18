@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Copy element &apos;PanelClientes.java&apos; to &apos;inventario/src/vistas&apos;&#x0D;&#x0A;- Original project: &apos;inventario&apos;&#x0D;&#x0A;- Destination element: &apos;inventario/src/vistas&apos;&#x0D;&#x0A;- Original element: &apos;vistas.PanelClientes.java&apos;" description="Copy compilation unit" destination="/src&lt;vistas" element1="/src&lt;vistas{PanelClientes.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1741200118973" units="1" version="1.0"/>
-</session>

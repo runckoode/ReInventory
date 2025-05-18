@@ -1,6 +1,0 @@
-INDEX VERSION 1.134+C:\Users\DELL\eclipse-workspaceProyectoInventario\.metadata\.plugins\org.eclipse.jdt.core
-1865797976.index
-2238323608.index
-2162662534.index
-2954222788.index
-2427508876.index
